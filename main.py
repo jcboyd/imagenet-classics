@@ -98,7 +98,6 @@ class LogisticRegression(nn.Module):
     def __init__(self):
         super(LogisticRegression, self).__init__()
 
-        self.input_shape = input_shape
         self.fc = nn.Linear(56 * 56 * 3, 1000)
 
     def forward(self, x):
