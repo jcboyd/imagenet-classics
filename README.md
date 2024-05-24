@@ -1,5 +1,7 @@
 # imagenet-classics
 
+[![AlexNet demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c6zBIIW6iSf5dXtLDhPYrqm2YFoR2rix?usp=sharing)
+
 Train AlexNet (76% top-5 validation accuracy):
 
 ```
