@@ -2,6 +2,8 @@
 
 [![AlexNet demo](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1c6zBIIW6iSf5dXtLDhPYrqm2YFoR2rix?usp=sharing)
 
+![prediction](https://github.com/jcboyd/imagenet-classics/assets/8886851/aadac30b-84fb-4e7c-92c1-519e9e193a9b)
+
 Train AlexNet (76% top-5 validation accuracy):
 
 ```
